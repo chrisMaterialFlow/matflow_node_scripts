@@ -1,0 +1,115 @@
+<html>
+<head>
+<script src="//code.jquery.com/jquery-2.1.4.js"></script>
+</head>
+<body>
+  <div id="content">
+
+                      <form onsubmit="" action="quote_cart.php" method="POST" id="QQForm" name="QQForm">
+
+                          <table id="quick-quote">
+                              <thead>
+                                  <tr>
+                                      <td class="product">Enter models or parts</td>
+                                      <td class="validation-img"></td>
+                                      <td class="qty">Quantity</td>
+                                  </tr>
+                              </thead>
+                              <tbody>                                    <tr>
+                                          <td>
+                                              <input id="product-0" autocomplete="off" name="product[0]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[0]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-1" autocomplete="off" name="product[1]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[1]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-2" autocomplete="off" name="product[2]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[2]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-3" autocomplete="off" name="product[3]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[3]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-4" autocomplete="off" name="product[4]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[4]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-5" autocomplete="off" name="product[5]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[5]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-6" autocomplete="off" name="product[6]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[6]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-7" autocomplete="off" name="product[7]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[7]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-8" autocomplete="off" name="product[8]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[8]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                                    <tr>
+                                          <td>
+                                              <input id="product-9" autocomplete="off" name="product[9]" class="product" maxlength="100" type="text" value="">
+                                              <div class="hint-results"></div>
+                                          </td>
+                                          <td><img class="validation-img" alt="validation image" src=""></td>
+                                          <td><input autocomplete="off" name="qty[9]" class="qty" maxlength="5" type="text" value=""></td>
+
+                                      </tr>                            </tbody>
+                              <tfoot>
+                                  <tr>
+                                      <td colspan="3"><input id="qq-submit" name="submitQQ" type="submit" value="Add to Cart"></td>
+                                  </tr>
+                              </tfoot>
+                          </table>
+                      </form>
+                  <!-- Input part / model and quantity. -->
+              </div>
+              <script>
+                  $( "form" ).on( "submit", function( event ) {
+                      event.preventDefault();
+                      console.log( $( this ).serialize() );
+                  });
+              </script>
+</body>
+</html>

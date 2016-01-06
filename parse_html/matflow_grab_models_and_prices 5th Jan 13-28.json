@@ -1,0 +1,3746 @@
+{
+    "apiName": "matflow_grab_models_and_prices",
+    "apiGuid": "446af8a2-1d60-4358-98f6-33c9b262fc74",
+    "generatedAt": 1452029319,
+    "pages": [
+        {
+            "pageUrl": "https://materialflow.com/p/Stard-Duty-Forklift-Karrier---800-lb-Capacity/",
+            "results": [
+                {
+                    "model": "285A",
+                    "our_price": "$691.00"
+                },
+                {
+                    "model": "285AM",
+                    "our_price": "$1775.00"
+                },
+                {
+                    "model": "285G",
+                    "our_price": "$999.00"
+                },
+                {
+                    "model": "285S-OC",
+                    "our_price": "$1209.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Fork-Hook/",
+            "results": [
+                {
+                    "model": "284",
+                    "our_price": "$104.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Heavy-Duty-Forklift-Karrier---1500-lb-Capacity/",
+            "results": [
+                {
+                    "model": "285A-HD",
+                    "our_price": "$790.00"
+                },
+                {
+                    "model": "285AM-HD",
+                    "our_price": "$2020.00"
+                },
+                {
+                    "model": "285G-HD",
+                    "our_price": "$1011.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Extra-Heavy-Duty-and-Super-Duty-Forklift-Karrier/",
+            "results": [
+                {
+                    "model": "285A-GR",
+                    "our_price": "$1964.00"
+                },
+                {
+                    "model": "285XGR",
+                    "our_price": "$2679.00"
+                },
+                {
+                    "model": "285XMGR",
+                    "our_price": "$4134.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/288-1-MORSpeed-Forklift-Attachments---One-Drum/",
+            "results": [
+                {
+                    "model": "288-1",
+                    "our_price": "$1320.00"
+                },
+                {
+                    "model": "288-1-2H",
+                    "our_price": "$2062.00"
+                },
+                {
+                    "model": "288-0",
+                    "our_price": "$575.00"
+                },
+                {
+                    "model": "2523-P",
+                    "our_price": "$169.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/288-2-MORSpeed-Forklift-Attachments---Two-Drum/",
+            "results": [
+                {
+                    "model": "288-2",
+                    "our_price": "$2212.00"
+                },
+                {
+                    "model": "288-2-2H",
+                    "our_price": "$3754.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-287-Carriage-Mount-Drum-Hlers/",
+            "results": [
+                {
+                    "model": "287",
+                    "our_price": "$972.00"
+                },
+                {
+                    "model": "287-2H",
+                    "our_price": "$1718.00"
+                },
+                {
+                    "model": "287M",
+                    "our_price": "$3495.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Forklift-Karrier-with-Battery-Power-Tilt/",
+            "results": [
+                {
+                    "model": "285A-BP",
+                    "our_price": "$2970.00"
+                },
+                {
+                    "model": "285XBP",
+                    "our_price": "$4412.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Single-Stationary-Drum-Rollers/",
+            "results": [
+                {
+                    "model": "1-5154VS-1-115",
+                    "our_price": "$3145.00"
+                },
+                {
+                    "model": "1-5154VS-1-230",
+                    "our_price": "$3145.00"
+                },
+                {
+                    "model": "1-5154VS-3-230",
+                    "our_price": "$3149.00"
+                },
+                {
+                    "model": "1-5154VS-3-460",
+                    "our_price": "$3145.00"
+                },
+                {
+                    "model": "1-5154/10-1",
+                    "our_price": "$1899.00"
+                },
+                {
+                    "model": "1-5154/10-1-50",
+                    "our_price": "$2035.00"
+                },
+                {
+                    "model": "1-5154/10-3",
+                    "our_price": "$1894.00"
+                },
+                {
+                    "model": "1-5154/10-3-50",
+                    "our_price": "$2050.00"
+                },
+                {
+                    "model": "1-5154/10-575",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-5154/10-E1",
+                    "our_price": "$2185.00"
+                },
+                {
+                    "model": "1-5154/10-E1-50",
+                    "our_price": "$2457.00"
+                },
+                {
+                    "model": "1-5154/10-E3",
+                    "our_price": "$2289.00"
+                },
+                {
+                    "model": "1-5154/10-E3-50",
+                    "our_price": "$2629.00"
+                },
+                {
+                    "model": "1-5154/10-E575",
+                    "our_price": "$2552.00"
+                },
+                {
+                    "model": "1-5154/10-A",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-5154/20-1",
+                    "our_price": "$1899.00"
+                },
+                {
+                    "model": "1-5154/20-1-50",
+                    "our_price": "$2039.00"
+                },
+                {
+                    "model": "1-5154/20-3",
+                    "our_price": "$1652.00"
+                },
+                {
+                    "model": "1-5154/20-3-50",
+                    "our_price": "$2053.00"
+                },
+                {
+                    "model": "1-5154/20-575",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-5154/20-E1",
+                    "our_price": "$2184.00"
+                },
+                {
+                    "model": "1-5154/20-E1-50",
+                    "our_price": "$2457.00"
+                },
+                {
+                    "model": "1-5154/20-E3",
+                    "our_price": "$2289.00"
+                },
+                {
+                    "model": "1-5154/20-E3-50",
+                    "our_price": "$2627.00"
+                },
+                {
+                    "model": "1-5154/20-E575",
+                    "our_price": "$2554.00"
+                },
+                {
+                    "model": "1-5154/20-A",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-5154/30-1",
+                    "our_price": "$1899.00"
+                },
+                {
+                    "model": "1-5154/30-1-50",
+                    "our_price": "$2039.00"
+                },
+                {
+                    "model": "1-5154/30-3",
+                    "our_price": "$1895.00"
+                },
+                {
+                    "model": "1-5154/30-3-50",
+                    "our_price": "$2053.00"
+                },
+                {
+                    "model": "1-5154/30-575",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-5154/30-E1",
+                    "our_price": "$2184.00"
+                },
+                {
+                    "model": "1-5154/30-E1-50",
+                    "our_price": "$2457.00"
+                },
+                {
+                    "model": "1-5154/30-E3",
+                    "our_price": "$2289.00"
+                },
+                {
+                    "model": "1-5154/30-E3-50",
+                    "our_price": "$2629.00"
+                },
+                {
+                    "model": "1-5154/30-E575",
+                    "our_price": "$2554.00"
+                },
+                {
+                    "model": "1-5154/30-A",
+                    "our_price": "$1999.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Series-92-Drum-Lifters/",
+            "results": [
+                {
+                    "model": "92",
+                    "our_price": "$172.50"
+                },
+                {
+                    "model": "92-SS",
+                    "our_price": "$399.00"
+                },
+                {
+                    "model": "92M",
+                    "our_price": "$1,499.00"
+                },
+                {
+                    "model": "92-30",
+                    "our_price": "$207.00"
+                },
+                {
+                    "model": "92-30SS",
+                    "our_price": "$595.00"
+                },
+                {
+                    "model": "92-5",
+                    "our_price": "$203.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Drum-Karriers/",
+            "results": [
+                {
+                    "model": "85A",
+                    "our_price": "$223.00"
+                },
+                {
+                    "model": "85AM",
+                    "our_price": "$998.00"
+                },
+                {
+                    "model": "85C",
+                    "our_price": "$295.00"
+                },
+                {
+                    "model": "85G",
+                    "our_price": "$468.00"
+                },
+                {
+                    "model": "85i",
+                    "our_price": "$307.00"
+                },
+                {
+                    "model": "85iM",
+                    "our_price": "$1098.00"
+                },
+                {
+                    "model": "85i-SS",
+                    "our_price": "$1191.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-91-Drum-Lifter/",
+            "results": [
+                {
+                    "model": "91",
+                    "our_price": "$127.60"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Verti-Karrier-Drum-Lifters/",
+            "results": [
+                {
+                    "model": "90",
+                    "our_price": "$229.00"
+                },
+                {
+                    "model": "90-SS",
+                    "our_price": "$639.00"
+                },
+                {
+                    "model": "90M",
+                    "our_price": "$939.00"
+                },
+                {
+                    "model": "90-30",
+                    "our_price": "$264.00"
+                },
+                {
+                    "model": "90-85",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "90S-HD",
+                    "our_price": "$1130.00"
+                },
+                {
+                    "model": "90S-NDT",
+                    "our_price": "$1060.00"
+                },
+                {
+                    "model": "91S-NDT",
+                    "our_price": "$780.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Drum-Lifting-Hooks/",
+            "results": [
+                {
+                    "model": "41",
+                    "our_price": "$69.00"
+                },
+                {
+                    "model": "41M",
+                    "our_price": "$159.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-14-Round-Drum-Dolly/",
+            "results": [
+                {
+                    "model": "14",
+                    "our_price": "$94.00"
+                },
+                {
+                    "model": "14M",
+                    "our_price": "$976.00"
+                },
+                {
+                    "model": "14-SS",
+                    "our_price": "$239.00"
+                },
+                {
+                    "model": "14-SSC",
+                    "our_price": "$375.00"
+                },
+                {
+                    "model": "14-30",
+                    "our_price": "$96.50"
+                },
+                {
+                    "model": "14-30SS",
+                    "our_price": "$239.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-34-Square-Drum-Dolly/",
+            "results": [
+                {
+                    "model": "34",
+                    "our_price": "$107.00"
+                },
+                {
+                    "model": "34-SS",
+                    "our_price": "$229.00"
+                },
+                {
+                    "model": "34-30",
+                    "our_price": "$105.00"
+                },
+                {
+                    "model": "34-30SS",
+                    "our_price": "$229.00"
+                },
+                {
+                    "model": "34-5",
+                    "our_price": "$99.40"
+                },
+                {
+                    "model": "34-5SS",
+                    "our_price": "$159.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Wireless-Control/",
+            "results": [
+                {
+                    "model": "4804i-P",
+                    "our_price": "$689.00"
+                },
+                {
+                    "model": "4804-P",
+                    "our_price": "$740.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PILOT-Power-Propelled-MORStak-Drum-Racker/",
+            "results": [
+                {
+                    "model": "910",
+                    "our_price": "$24589.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PILOT-Power-Propelled-MORSpeed-Drum-Mover-Stacker/",
+            "results": [
+                {
+                    "model": "915",
+                    "our_price": "$20549.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PILOT-Drum-Pourers/",
+            "results": [
+                {
+                    "model": "900",
+                    "our_price": "$20979.00"
+                },
+                {
+                    "model": "905",
+                    "our_price": "$27967.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/MORStop-Tilt-Brake/",
+            "results": [
+                {
+                    "model": "3900i-P",
+                    "our_price": "$182.00"
+                },
+                {
+                    "model": "3900-P",
+                    "our_price": "$182.00"
+                },
+                {
+                    "model": "3900iSS-P",
+                    "our_price": "$339.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Heavy-Duty-MORSpeed-Forklift-Attachment/",
+            "results": [
+                {
+                    "model": "288-1S-HD",
+                    "our_price": "$3384.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Fork-Mounted-Drum-Handler/",
+            "results": [
+                {
+                    "model": "185S-HD-FP",
+                    "our_price": "$1369.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Hydra-Lift-Drum-Karrier/",
+            "results": [
+                {
+                    "model": "400S-XR",
+                    "our_price": "$3185.00"
+                },
+                {
+                    "model": "400S-XR-110",
+                    "our_price": "$4742.00"
+                },
+                {
+                    "model": "400S-XR-114",
+                    "our_price": "$4769.00"
+                },
+                {
+                    "model": "400S-XR-115",
+                    "our_price": "$4753.00"
+                },
+                {
+                    "model": "400S-XR-120",
+                    "our_price": "$3832.00"
+                },
+                {
+                    "model": "400S-XR-124",
+                    "our_price": "$3869.00"
+                },
+                {
+                    "model": "400S-XR-125",
+                    "our_price": "$3865.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/MORplug-Spark-Resistant-Bronze-Drum-Wrench/",
+            "results": [
+                {
+                    "model": "59SRM",
+                    "our_price": "$89.70"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-59-MORplug-Drum-Bung-Wrench/",
+            "results": [
+                {
+                    "model": "59",
+                    "our_price": "$24.30"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Polyethylene-Faucets/",
+            "results": [
+                {
+                    "model": "68-20",
+                    "our_price": "$30.10"
+                },
+                {
+                    "model": "68-75",
+                    "our_price": "$4.20"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Molasses-Gate-Drum-Faucet/",
+            "results": [
+                {
+                    "model": "65-20",
+                    "our_price": "$46.70"
+                },
+                {
+                    "model": "65-75",
+                    "our_price": "$50.40"
+                },
+                {
+                    "model": "65-10",
+                    "our_price": "$29.00"
+                },
+                {
+                    "model": "65-15",
+                    "our_price": "$53.00"
+                },
+                {
+                    "model": "65-30",
+                    "our_price": "$182.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/5-Gallon-Pail-Heaters/",
+            "results": [
+                {
+                    "model": "710-5-115",
+                    "our_price": "$239.00"
+                },
+                {
+                    "model": "710-5-230",
+                    "our_price": "$248.00"
+                },
+                {
+                    "model": "711-5-115",
+                    "our_price": "$239.00"
+                },
+                {
+                    "model": "711-5-230",
+                    "our_price": "$248.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Non-Metallic-Drum-Heater/",
+            "results": [
+                {
+                    "model": "711-55-115",
+                    "our_price": "$239.00"
+                },
+                {
+                    "model": "711-55-230",
+                    "our_price": "$236.00"
+                },
+                {
+                    "model": "711-30-115",
+                    "our_price": "$247.00"
+                },
+                {
+                    "model": "711-15-115",
+                    "our_price": "$248.00"
+                },
+                {
+                    "model": "710-15-230",
+                    "our_price": "$249.00"
+                },
+                {
+                    "model": "711-30-230",
+                    "our_price": "$249.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Steel-Drum-Heater/",
+            "results": [
+                {
+                    "model": "710-55-115",
+                    "our_price": "$238.00"
+                },
+                {
+                    "model": "710-55-230",
+                    "our_price": "$238.00"
+                },
+                {
+                    "model": "710-30-115",
+                    "our_price": "$238.00"
+                },
+                {
+                    "model": "710-30-230",
+                    "our_price": "$235.00"
+                },
+                {
+                    "model": "710-15-115",
+                    "our_price": "$246.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-32-Drum-Upender/",
+            "results": [
+                {
+                    "model": "32",
+                    "our_price": "$57.50"
+                },
+                {
+                    "model": "32M",
+                    "our_price": "$229.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-59SRZ-MORplug-Spark-Resistant-Z-A-Alloy-Drum-Wrench/",
+            "results": [
+                {
+                    "model": "59SRZ",
+                    "our_price": "$42.70"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Drum-Hand-Pumps/",
+            "results": [
+                {
+                    "model": "26",
+                    "our_price": "$199.00"
+                },
+                {
+                    "model": "27-1AE",
+                    "our_price": "$199.00"
+                },
+                {
+                    "model": "27-4AV",
+                    "our_price": "$228.00"
+                },
+                {
+                    "model": "28-5BV",
+                    "our_price": "$489.00"
+                },
+                {
+                    "model": "28-6BE",
+                    "our_price": "$438.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PailPRO-Can-Tippers/",
+            "results": [
+                {
+                    "model": "15",
+                    "our_price": "$75.20"
+                },
+                {
+                    "model": "15-SS",
+                    "our_price": "$179.00"
+                },
+                {
+                    "model": "2-15",
+                    "our_price": "$130.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Mobile-Karriers/",
+            "results": [
+                {
+                    "model": "80i",
+                    "our_price": "$668.00"
+                },
+                {
+                    "model": "80iM",
+                    "our_price": "$1849.00"
+                },
+                {
+                    "model": "80i-SS",
+                    "our_price": "$2864.00"
+                },
+                {
+                    "model": "80A",
+                    "our_price": "$515.00"
+                },
+                {
+                    "model": "80AM",
+                    "our_price": "$1173.00"
+                },
+                {
+                    "model": "80APS",
+                    "our_price": "$534.00"
+                },
+                {
+                    "model": "80C",
+                    "our_price": "$598.00"
+                },
+                {
+                    "model": "80G",
+                    "our_price": "$758.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-46-Drum-Cradle-Truck-for-15-Gallon-Drum/",
+            "results": [
+                {
+                    "model": "46",
+                    "our_price": "$89.70"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-36-Cradle-Truck/",
+            "results": [
+                {
+                    "model": "36",
+                    "our_price": "$180.00"
+                },
+                {
+                    "model": "36-SS",
+                    "our_price": "$719.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-40-Drum-Cradle-Truck/",
+            "results": [
+                {
+                    "model": "40",
+                    "our_price": "$174.00"
+                },
+                {
+                    "model": "40-30",
+                    "our_price": "$174.00"
+                },
+                {
+                    "model": "31",
+                    "our_price": "$55.60"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Power-Tilt-Kontrol-Karrier/",
+            "results": [
+                {
+                    "model": "195A-1-115",
+                    "our_price": "$4999.00"
+                },
+                {
+                    "model": "195A-1-220-50",
+                    "our_price": "$5855.00"
+                },
+                {
+                    "model": "195A-3-230",
+                    "our_price": "$4999.00"
+                },
+                {
+                    "model": "195A-3-460",
+                    "our_price": "$4999.00"
+                },
+                {
+                    "model": "195A-A",
+                    "our_price": "$4489.00"
+                },
+                {
+                    "model": "195G-1-115",
+                    "our_price": "$5555.00"
+                },
+                {
+                    "model": "195G-3-230",
+                    "our_price": "$5559.00"
+                },
+                {
+                    "model": "195G-3-460",
+                    "our_price": "$5559.00"
+                },
+                {
+                    "model": "195G-A",
+                    "our_price": "$4775.00"
+                },
+                {
+                    "model": "195GM-A",
+                    "our_price": "$6229.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Series-86-Drum-Lifters/",
+            "results": [
+                {
+                    "model": "86",
+                    "our_price": "$327.00"
+                },
+                {
+                    "model": "86-SS",
+                    "our_price": "$1759.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Heavy-Duty-Drum-Lifters/",
+            "results": [
+                {
+                    "model": "42",
+                    "our_price": "$242.00"
+                },
+                {
+                    "model": "42-G",
+                    "our_price": "$251.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Scale-Equipped-Vertical-Lift-Drum-Pourers/",
+            "results": [
+                {
+                    "model": "515M-T-114",
+                    "our_price": "$17,390.00"
+                },
+                {
+                    "model": "515M-T-124",
+                    "our_price": "$17,950.00"
+                },
+                {
+                    "model": "515-N",
+                    "our_price": "$11,029.00"
+                },
+                {
+                    "model": "515-N-110",
+                    "our_price": "$12,900.00"
+                },
+                {
+                    "model": "515-N-114",
+                    "our_price": "$12,950.00"
+                },
+                {
+                    "model": "515-N-115",
+                    "our_price": "$12,995.00"
+                },
+                {
+                    "model": "515-N-120",
+                    "our_price": "$12,029.00"
+                },
+                {
+                    "model": "515-N-124",
+                    "our_price": "$12,049.00"
+                },
+                {
+                    "model": "515-N-125",
+                    "our_price": "$12,029.00"
+                },
+                {
+                    "model": "515-T",
+                    "our_price": "$12,800.00"
+                },
+                {
+                    "model": "515-T-114",
+                    "our_price": "$14,600.00"
+                },
+                {
+                    "model": "515-T-124",
+                    "our_price": "$13,600.00"
+                },
+                {
+                    "model": "525M-T-114",
+                    "our_price": "$17,950.00"
+                },
+                {
+                    "model": "525M-T-124",
+                    "our_price": "$17,950.00"
+                },
+                {
+                    "model": "525-N",
+                    "our_price": "$12,150.00"
+                },
+                {
+                    "model": "525-N-110",
+                    "our_price": "$14,100.00"
+                },
+                {
+                    "model": "525-N-114",
+                    "our_price": "$14,100.00"
+                },
+                {
+                    "model": "525-N-115",
+                    "our_price": "$14,100.00"
+                },
+                {
+                    "model": "525-N-120",
+                    "our_price": "$13,179.00"
+                },
+                {
+                    "model": "525-N-124",
+                    "our_price": "$13,190.00"
+                },
+                {
+                    "model": "525-N-125",
+                    "our_price": "$13,170.00"
+                },
+                {
+                    "model": "525-N-127",
+                    "our_price": "$13,495.00"
+                },
+                {
+                    "model": "525-T",
+                    "our_price": "$13,559.00"
+                },
+                {
+                    "model": "525-T-114",
+                    "our_price": "$15,415.00"
+                },
+                {
+                    "model": "525-T-124",
+                    "our_price": "$14,369.00"
+                },
+                {
+                    "model": "525SS-N",
+                    "our_price": "$26,747.00"
+                },
+                {
+                    "model": "525SS-N-110",
+                    "our_price": "$28,448.00"
+                },
+                {
+                    "model": "525SS-N-114",
+                    "our_price": "$28,628.00"
+                },
+                {
+                    "model": "525SS-N-115",
+                    "our_price": "$28,453.00"
+                },
+                {
+                    "model": "525SS-N-120",
+                    "our_price": "$28,508.00"
+                },
+                {
+                    "model": "525SS-N-124",
+                    "our_price": "$28,678.00"
+                },
+                {
+                    "model": "525SS-N-125",
+                    "our_price": "$28,513.00"
+                },
+                {
+                    "model": "525SS-T",
+                    "our_price": "$30,947.00"
+                },
+                {
+                    "model": "525SS-T-114",
+                    "our_price": "$30,837.00"
+                },
+                {
+                    "model": "525SS-T-124",
+                    "our_price": "$29,897.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Hydra-Lift-Drum-Karriers/",
+            "results": [
+                {
+                    "model": "400A-60",
+                    "our_price": "$1,609.00"
+                },
+                {
+                    "model": "400A-60-110",
+                    "our_price": "$3,295.00"
+                },
+                {
+                    "model": "400A-60-111",
+                    "our_price": "$4,395.00"
+                },
+                {
+                    "model": "400A-60-112",
+                    "our_price": "$4,410.00"
+                },
+                {
+                    "model": "400A-60-113",
+                    "our_price": "$3,995.00"
+                },
+                {
+                    "model": "400A-60-114",
+                    "our_price": "$3,379.00"
+                },
+                {
+                    "model": "400A-60-115",
+                    "our_price": "$3,359.00"
+                },
+                {
+                    "model": "400A-60-117",
+                    "our_price": "$4,215.00"
+                },
+                {
+                    "model": "400A-60-120",
+                    "our_price": "$2,555.00"
+                },
+                {
+                    "model": "400A-60-121",
+                    "our_price": "$3,395.00"
+                },
+                {
+                    "model": "400A-60-122",
+                    "our_price": "$3,395.00"
+                },
+                {
+                    "model": "400A-60-123",
+                    "our_price": "$2,895.00"
+                },
+                {
+                    "model": "400A-60-124",
+                    "our_price": "$2,379.00"
+                },
+                {
+                    "model": "400A-60-125",
+                    "our_price": "$2,469.00"
+                },
+                {
+                    "model": "400A-60-127",
+                    "our_price": "$3,195.00"
+                },
+                {
+                    "model": "400A-72",
+                    "our_price": "$1,699.00"
+                },
+                {
+                    "model": "400A-72-110",
+                    "our_price": "$3,395.00"
+                },
+                {
+                    "model": "400A-72-111",
+                    "our_price": "$4,410.00"
+                },
+                {
+                    "model": "400A-72-112",
+                    "our_price": "$4,399.00"
+                },
+                {
+                    "model": "400A-72-113",
+                    "our_price": "$4,219.00"
+                },
+                {
+                    "model": "400A-72-114",
+                    "our_price": "$3,429.00"
+                },
+                {
+                    "model": "400A-72-115",
+                    "our_price": "$3,399.00"
+                },
+                {
+                    "model": "400A-72-117",
+                    "our_price": "$4,389.00"
+                },
+                {
+                    "model": "400A-72-120",
+                    "our_price": "$2,410.00"
+                },
+                {
+                    "model": "400A-72-121",
+                    "our_price": "$3,419.00"
+                },
+                {
+                    "model": "400A-72-122",
+                    "our_price": "$3,389.00"
+                },
+                {
+                    "model": "400A-72-123",
+                    "our_price": "$2,940.00"
+                },
+                {
+                    "model": "400A-72-124",
+                    "our_price": "$2,459.00"
+                },
+                {
+                    "model": "400A-72-125",
+                    "our_price": "$2,539.00"
+                },
+                {
+                    "model": "400A-72-127",
+                    "our_price": "$3,229.00"
+                },
+                {
+                    "model": "400A-96",
+                    "our_price": "$1,869.00"
+                },
+                {
+                    "model": "400A-96-110",
+                    "our_price": "$3,999.00"
+                },
+                {
+                    "model": "400A-96-111",
+                    "our_price": "$4,579.00"
+                },
+                {
+                    "model": "400A-96-112",
+                    "our_price": "$4,550.00"
+                },
+                {
+                    "model": "400A-96-113",
+                    "our_price": "$4,369.00"
+                },
+                {
+                    "model": "400A-96-114",
+                    "our_price": "$3,560.00"
+                },
+                {
+                    "model": "400A-96-115",
+                    "our_price": "$3,359.00"
+                },
+                {
+                    "model": "400A-96-117",
+                    "our_price": "$4,517.00"
+                },
+                {
+                    "model": "400A-96-120",
+                    "our_price": "$2,559.00"
+                },
+                {
+                    "model": "400A-96-121",
+                    "our_price": "$3,579.00"
+                },
+                {
+                    "model": "400A-96-122",
+                    "our_price": "$3,559.00"
+                },
+                {
+                    "model": "400A-96-123",
+                    "our_price": "$3,095.00"
+                },
+                {
+                    "model": "400A-96-124",
+                    "our_price": "$3,095.00"
+                },
+                {
+                    "model": "400A-96-125",
+                    "our_price": "$2,599.00"
+                },
+                {
+                    "model": "400A-96-127",
+                    "our_price": "$3,359.00"
+                },
+                {
+                    "model": "400AM-60",
+                    "our_price": "$3,579.00"
+                },
+                {
+                    "model": "400AM-60-111",
+                    "our_price": "$5,889.00"
+                },
+                {
+                    "model": "400AM-60-112",
+                    "our_price": "$5,650.00"
+                },
+                {
+                    "model": "400AM-60-114",
+                    "our_price": "$5,569.00"
+                },
+                {
+                    "model": "400AM-60-121",
+                    "our_price": "$4,929.00"
+                },
+                {
+                    "model": "400AM-60-122",
+                    "our_price": "$4,959.00"
+                },
+                {
+                    "model": "400AM-60-124",
+                    "our_price": "$4,365.00"
+                },
+                {
+                    "model": "400AM-72",
+                    "our_price": "$3,769.00"
+                },
+                {
+                    "model": "400AM-72-111",
+                    "our_price": "$5,890.00"
+                },
+                {
+                    "model": "400AM-72-112",
+                    "our_price": "$5,819.00"
+                },
+                {
+                    "model": "400AM-72-114",
+                    "our_price": "$5,550.00"
+                },
+                {
+                    "model": "400AM-72-121",
+                    "our_price": "$5,159.00"
+                },
+                {
+                    "model": "400AM-72-122",
+                    "our_price": "$5,095.00"
+                },
+                {
+                    "model": "400AM-72-124",
+                    "our_price": "$4,829.00"
+                },
+                {
+                    "model": "400AM-96",
+                    "our_price": "$3,990.00"
+                },
+                {
+                    "model": "400AM-96-111",
+                    "our_price": "$5,995.00"
+                },
+                {
+                    "model": "400AM-96-112",
+                    "our_price": "$5,879.00"
+                },
+                {
+                    "model": "400AM-96-114",
+                    "our_price": "$5,719.00"
+                },
+                {
+                    "model": "400AM-96-121",
+                    "our_price": "$5,295.00"
+                },
+                {
+                    "model": "400AM-96-122",
+                    "our_price": "$5,290.00"
+                },
+                {
+                    "model": "400AM-96-124",
+                    "our_price": "$4,999.00"
+                },
+                {
+                    "model": "400A-72SS",
+                    "our_price": "$10,769.00"
+                },
+                {
+                    "model": "400A-72SS-110",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-111",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-72SS-112",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-72SS-113",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-72SS-114",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-115",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-117",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-72SS-120",
+                    "our_price": "$11,290.00"
+                },
+                {
+                    "model": "400A-72SS-121",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-122",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-123",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-72SS-124",
+                    "our_price": "$11,290.00"
+                },
+                {
+                    "model": "400A-72SS-125",
+                    "our_price": "$11,290.00"
+                },
+                {
+                    "model": "400A-72SS-127",
+                    "our_price": "$12,520.00"
+                },
+                {
+                    "model": "400A-96SS",
+                    "our_price": "$11,150.00"
+                },
+                {
+                    "model": "400A-96SS-110",
+                    "our_price": "$13,649.00"
+                },
+                {
+                    "model": "400A-96SS-111",
+                    "our_price": "$14,995.00"
+                },
+                {
+                    "model": "400A-96SS-112",
+                    "our_price": "$14,995.00"
+                },
+                {
+                    "model": "400A-96SS-113",
+                    "our_price": "$14,995.00"
+                },
+                {
+                    "model": "400A-96SS-114",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-96SS-115",
+                    "our_price": "$12,850.00"
+                },
+                {
+                    "model": "400A-96SS-117",
+                    "our_price": "$14,995.00"
+                },
+                {
+                    "model": "400A-96SS-120",
+                    "our_price": "$12,750.00"
+                },
+                {
+                    "model": "400A-96SS-121",
+                    "our_price": "$13,750.00"
+                },
+                {
+                    "model": "400A-96SS-122",
+                    "our_price": "$13,560.00"
+                },
+                {
+                    "model": "400A-96SS-123",
+                    "our_price": "$13,360.00"
+                },
+                {
+                    "model": "400A-96SS-124",
+                    "our_price": "$12,750.00"
+                },
+                {
+                    "model": "400A-96SS-125",
+                    "our_price": "$12,750.00"
+                },
+                {
+                    "model": "400A-96SS-127",
+                    "our_price": "$13,560.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Heavy-Duty-Kontrol-Karrier---1500-lb-Capacity/",
+            "results": [
+                {
+                    "model": "185A-HD",
+                    "our_price": "$715.00"
+                },
+                {
+                    "model": "185AM-HD",
+                    "our_price": "$2395.00"
+                },
+                {
+                    "model": "185A-HDSS",
+                    "our_price": "$2169.00"
+                },
+                {
+                    "model": "185G-HD",
+                    "our_price": "$915.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Stard-Duty-Kontrol-Karrier---800-lb-Capacity/",
+            "results": [
+                {
+                    "model": "185A",
+                    "our_price": "$629.00"
+                },
+                {
+                    "model": "185AM",
+                    "our_price": "$1819.00"
+                },
+                {
+                    "model": "185G",
+                    "our_price": "$749.00"
+                },
+                {
+                    "model": "185G-GR",
+                    "our_price": "$1690.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Extra-Heavy-Duty-Kontrol-Karrier---2000-lb-Capacity/",
+            "results": [
+                {
+                    "model": "185A-GR",
+                    "our_price": "$1,599.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Adjusto-Karriers/",
+            "results": [
+                {
+                    "model": "186",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "186M",
+                    "our_price": "$1,999.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Omni-Lift-Drum-Rackers/",
+            "results": [
+                {
+                    "model": "405",
+                    "our_price": "$2230.00"
+                },
+                {
+                    "model": "405M",
+                    "our_price": "$4450.00"
+                },
+                {
+                    "model": "405-110",
+                    "our_price": "$3875.00"
+                },
+                {
+                    "model": "405-111",
+                    "our_price": "$4479.00"
+                },
+                {
+                    "model": "405-112",
+                    "our_price": "$4479.00"
+                },
+                {
+                    "model": "405-113",
+                    "our_price": "$4221.00"
+                },
+                {
+                    "model": "405-114",
+                    "our_price": "$3809.00"
+                },
+                {
+                    "model": "405-115",
+                    "our_price": "$3795.00"
+                },
+                {
+                    "model": "405-117",
+                    "our_price": "$4221.00"
+                },
+                {
+                    "model": "405-120",
+                    "our_price": "$2850.00"
+                },
+                {
+                    "model": "405-121",
+                    "our_price": "$3339.00"
+                },
+                {
+                    "model": "405-122",
+                    "our_price": "$3309.00"
+                },
+                {
+                    "model": "405-123",
+                    "our_price": "$3074.00"
+                },
+                {
+                    "model": "405-124",
+                    "our_price": "$3079.00"
+                },
+                {
+                    "model": "405-125",
+                    "our_price": "$3050.00"
+                },
+                {
+                    "model": "405-127",
+                    "our_price": "$3439.00"
+                },
+                {
+                    "model": "405M-111",
+                    "our_price": "$6060.00"
+                },
+                {
+                    "model": "405M-114",
+                    "our_price": "$6350.00"
+                },
+                {
+                    "model": "405M-124",
+                    "our_price": "$5750.00"
+                },
+                {
+                    "model": "405M-121",
+                    "our_price": "$5950.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/82H-Series-Drum-Palletizer/",
+            "results": [
+                {
+                    "model": "82H",
+                    "our_price": "$2399.00"
+                },
+                {
+                    "model": "82H-120",
+                    "our_price": "$2788.00"
+                },
+                {
+                    "model": "82H-124",
+                    "our_price": "$2789.00"
+                },
+                {
+                    "model": "82H-125",
+                    "our_price": "$2789.00"
+                },
+                {
+                    "model": "82HM",
+                    "our_price": "$3799.00"
+                },
+                {
+                    "model": "82HM-124",
+                    "our_price": "$3928.00"
+                },
+                {
+                    "model": "82H-SS",
+                    "our_price": "$9915.00"
+                },
+                {
+                    "model": "82H-SS-120",
+                    "our_price": "$10899.00"
+                },
+                {
+                    "model": "82H-SS-124",
+                    "our_price": "$10899.00"
+                },
+                {
+                    "model": "82H-SS-125",
+                    "our_price": "$10899.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/82A-Series-Drum-Palletizers/",
+            "results": [
+                {
+                    "model": "82A",
+                    "our_price": "$2249.00"
+                },
+                {
+                    "model": "82A-120",
+                    "our_price": "$2837.00"
+                },
+                {
+                    "model": "82A-127",
+                    "our_price": "$3399.00"
+                },
+                {
+                    "model": "82A-124",
+                    "our_price": "$2829.00"
+                },
+                {
+                    "model": "82A-125",
+                    "our_price": "$2829.00"
+                },
+                {
+                    "model": "82AM",
+                    "our_price": "$3487.00"
+                },
+                {
+                    "model": "82AM-124",
+                    "our_price": "$3718.00"
+                },
+                {
+                    "model": "82A-SS",
+                    "our_price": "$10028.00"
+                },
+                {
+                    "model": "82A-SS-120",
+                    "our_price": "$10925.00"
+                },
+                {
+                    "model": "82A-SS-124",
+                    "our_price": "$10909.00"
+                },
+                {
+                    "model": "82A-SS-125",
+                    "our_price": "$10909.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Below-Hook-Drum-Lifter-with-Fork-Pockets/",
+            "results": [
+                {
+                    "model": "86S-FP",
+                    "our_price": "$895.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Heavy-Duty-Below-Hook-Drum-Lifter-with-Fork-Pockets/",
+            "results": [
+                {
+                    "model": "86S-FPHD",
+                    "our_price": "$1649.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Kontrol-Karrier-Drum-Carrier/",
+            "results": [
+                {
+                    "model": "185S-LA",
+                    "our_price": "$1051.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-4-Wheel-Drum-Truck/",
+            "results": [
+                {
+                    "model": "C4DT",
+                    "our_price": "Call"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Drum-Lifters/",
+            "results": [
+                {
+                    "model": "86S-2D",
+                    "our_price": "$1257.00"
+                },
+                {
+                    "model": "86S-2LP",
+                    "our_price": "$499.00"
+                },
+                {
+                    "model": "86S-NDT",
+                    "our_price": "$1604.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Single-Stage-MORStak-Drum-Rackers/",
+            "results": [
+                {
+                    "model": "611-110",
+                    "our_price": "$8129.00"
+                },
+                {
+                    "model": "611-114",
+                    "our_price": "$10598.00"
+                },
+                {
+                    "model": "611-115",
+                    "our_price": "$8127.00"
+                },
+                {
+                    "model": "611-117",
+                    "our_price": "$8536.00"
+                },
+                {
+                    "model": "611M-114",
+                    "our_price": "$13469.00"
+                },
+                {
+                    "model": "612-Morse",
+                    "our_price": "$3952.00"
+                },
+                {
+                    "model": "612-120",
+                    "our_price": "$4704.00"
+                },
+                {
+                    "model": "612-124",
+                    "our_price": "$4749.00"
+                },
+                {
+                    "model": "612-125",
+                    "our_price": "$4809.00"
+                },
+                {
+                    "model": "622",
+                    "our_price": "$4809.00"
+                },
+                {
+                    "model": "622-120",
+                    "our_price": "$5548.00"
+                },
+                {
+                    "model": "622-124",
+                    "our_price": "$5499.00"
+                },
+                {
+                    "model": "622-125",
+                    "our_price": "$5449.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Two-Stage-MORStak-Drum-Rackers/",
+            "results": [
+                {
+                    "model": "620-110",
+                    "our_price": "$8139.00"
+                },
+                {
+                    "model": "620-114",
+                    "our_price": "$10449.00"
+                },
+                {
+                    "model": "620M-114",
+                    "our_price": "$13620.00"
+                },
+                {
+                    "model": "620-115",
+                    "our_price": "$8140.00"
+                },
+                {
+                    "model": "620-117",
+                    "our_price": "$9549.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-152-and-153-Drum-Trucks/",
+            "results": [
+                {
+                    "model": "152-MORSE",
+                    "our_price": "$244.00"
+                },
+                {
+                    "model": "153",
+                    "our_price": "$247.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-155-Handstand-Drum-Truck/",
+            "results": [
+                {
+                    "model": "155-MORSE",
+                    "our_price": "$315.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-125-No-Spill-Drum-Truck/",
+            "results": [
+                {
+                    "model": "125",
+                    "our_price": "$179.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/750-Series-Pallet-Servers/",
+            "results": [
+                {
+                    "model": "750",
+                    "our_price": "$7168.00"
+                },
+                {
+                    "model": "750-BP",
+                    "our_price": "$7540.00"
+                },
+                {
+                    "model": "750-A",
+                    "our_price": "$7919.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PailPRO-5-Gallon-Can-Tumblers/",
+            "results": [
+                {
+                    "model": "2-305-1",
+                    "our_price": "$1399.00"
+                },
+                {
+                    "model": "2-305-1-50",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "2-305-1-230",
+                    "our_price": "$1499.00"
+                },
+                {
+                    "model": "2-305-3",
+                    "our_price": "$1369.00"
+                },
+                {
+                    "model": "2-305-3-50",
+                    "our_price": "$1639.00"
+                },
+                {
+                    "model": "2-305-575",
+                    "our_price": "$1639.00"
+                },
+                {
+                    "model": "2-305-A",
+                    "our_price": "$1439.00"
+                },
+                {
+                    "model": "2-305-E1",
+                    "our_price": "$1729.00"
+                },
+                {
+                    "model": "2-305-E1-50",
+                    "our_price": "$2189.00"
+                },
+                {
+                    "model": "2-305-E3",
+                    "our_price": "$1559.00"
+                },
+                {
+                    "model": "2-305-E3-50",
+                    "our_price": "$2190.00"
+                },
+                {
+                    "model": "2-305-E575",
+                    "our_price": "$2190.00"
+                },
+                {
+                    "model": "1-305-1",
+                    "our_price": "$1329.00"
+                },
+                {
+                    "model": "1-305-1-50",
+                    "our_price": "$1559.00"
+                },
+                {
+                    "model": "1-305-1-230",
+                    "our_price": "$1279.00"
+                },
+                {
+                    "model": "1-305-3",
+                    "our_price": "$1359.00"
+                },
+                {
+                    "model": "1-305-3-50",
+                    "our_price": "$1519.00"
+                },
+                {
+                    "model": "1-305-575",
+                    "our_price": "$1429.00"
+                },
+                {
+                    "model": "1-305-A",
+                    "our_price": "$1439.00"
+                },
+                {
+                    "model": "1-305-E1",
+                    "our_price": "$1539.00"
+                },
+                {
+                    "model": "1-305-E1-50",
+                    "our_price": "$1999.00"
+                },
+                {
+                    "model": "1-305-E3",
+                    "our_price": "$1407.00"
+                },
+                {
+                    "model": "1-305-E3-50",
+                    "our_price": "$1609.00"
+                },
+                {
+                    "model": "1-305-E575",
+                    "our_price": "$1669.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Mse-Set-Screws/",
+            "results": [
+                {
+                    "model": "1000-P"
+                },
+                {
+                    "model": "1000SS-P"
+                },
+                {
+                    "model": "1005-P"
+                },
+                {
+                    "model": "1007-P"
+                },
+                {
+                    "model": "1010-P"
+                },
+                {
+                    "model": "1015-P"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Saddle/",
+            "results": [
+                {
+                    "model": "1018-184-P",
+                    "our_price": "617.00"
+                },
+                {
+                    "model": "1018-P",
+                    "our_price": "682.00"
+                },
+                {
+                    "model": "101AM-P",
+                    "our_price": "995.00"
+                },
+                {
+                    "model": "101A-P",
+                    "our_price": "130.00"
+                },
+                {
+                    "model": "101APS-P",
+                    "our_price": "165.00"
+                },
+                {
+                    "model": "101ASS-P",
+                    "our_price": "484.00"
+                },
+                {
+                    "model": "101C-P",
+                    "our_price": "204.00"
+                },
+                {
+                    "model": "101g-p",
+                    "our_price": "246.50"
+                },
+                {
+                    "model": "101ZM-P",
+                    "our_price": "1,422.00"
+                },
+                {
+                    "model": "101Z-P",
+                    "our_price": "231.00"
+                },
+                {
+                    "model": "101ZSS-P",
+                    "our_price": "630.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Mse-Accessies--Attachments/",
+            "results": [
+                {
+                    "model": "10045",
+                    "our_price": "3.07"
+                },
+                {
+                    "model": "10423",
+                    "our_price": "23.40"
+                },
+                {
+                    "model": "102Z-P",
+                    "our_price": "228.00"
+                },
+                {
+                    "model": "1030-P",
+                    "our_price": "33.70"
+                },
+                {
+                    "model": "1032-90",
+                    "our_price": "11.40"
+                },
+                {
+                    "model": "1045-90",
+                    "our_price": "71.80"
+                },
+                {
+                    "model": "1045-P",
+                    "our_price": "101.00"
+                },
+                {
+                    "model": "1049-P",
+                    "our_price": "97.50"
+                },
+                {
+                    "model": "1049SS-P",
+                    "our_price": "259.00"
+                },
+                {
+                    "model": "1050SS-P",
+                    "our_price": "479.00"
+                },
+                {
+                    "model": "1051-P",
+                    "our_price": "231.00"
+                },
+                {
+                    "model": "1051SS-P",
+                    "our_price": "414.00"
+                },
+                {
+                    "model": "1053-P",
+                    "our_price": "144.00"
+                },
+                {
+                    "model": "1053SS-P",
+                    "our_price": "412.00"
+                },
+                {
+                    "model": "10545-P",
+                    "our_price": "69.20"
+                },
+                {
+                    "model": "1060-P",
+                    "our_price": "291.00"
+                },
+                {
+                    "model": "1062-P",
+                    "our_price": "619.00"
+                },
+                {
+                    "model": "1065-P",
+                    "our_price": "48.20"
+                },
+                {
+                    "model": "1066-P",
+                    "our_price": "25.35"
+                },
+                {
+                    "model": "1067-P",
+                    "our_price": "63.70"
+                },
+                {
+                    "model": "1068-P",
+                    "our_price": "50.00"
+                },
+                {
+                    "model": "1075-P",
+                    "our_price": "376.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/82A-Series-Drum-Palletizers-Geared-Tilt/",
+            "results": [
+                {
+                    "model": "82A-GT",
+                    "our_price": "$2,890.00"
+                },
+                {
+                    "model": "82A-GT-120",
+                    "our_price": "$3,990.00"
+                },
+                {
+                    "model": "82A-GT-124",
+                    "our_price": "$3,990.00"
+                },
+                {
+                    "model": "82A-GT-125",
+                    "our_price": "$3,990.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Model-288M-MORSpeed-Forklift-Attachments-Spark-Resistant/",
+            "results": [
+                {
+                    "model": "288M-1",
+                    "our_price": "$3995.00"
+                },
+                {
+                    "model": "288M-2",
+                    "our_price": "$7350.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Double-Stationary-Drum-Rollers/",
+            "results": [
+                {
+                    "model": "2-5154VS-1-115",
+                    "our_price": "$3659.00"
+                },
+                {
+                    "model": "2-5154VS-1-230",
+                    "our_price": "$3659.00"
+                },
+                {
+                    "model": "2-5154VS-3-230",
+                    "our_price": "$3999.00"
+                },
+                {
+                    "model": "2-5154VS-3-460",
+                    "our_price": "$3995.00"
+                },
+                {
+                    "model": "2-5154/10-1",
+                    "our_price": "$2633.00"
+                },
+                {
+                    "model": "2-5154/10-1-50",
+                    "our_price": "$2990.00"
+                },
+                {
+                    "model": "2-5154/10-3",
+                    "our_price": "$2924.00"
+                },
+                {
+                    "model": "2-5154/10-3-50",
+                    "our_price": "$2995.00"
+                },
+                {
+                    "model": "2-5154/10-575",
+                    "our_price": "$2995.00"
+                },
+                {
+                    "model": "2-5154/10-E1",
+                    "our_price": "$3150.00"
+                },
+                {
+                    "model": "2-5154/10-E1-50",
+                    "our_price": "$3790.00"
+                },
+                {
+                    "model": "2-5154/10-E3",
+                    "our_price": "$3150.00"
+                },
+                {
+                    "model": "2-5154/10-E3-50",
+                    "our_price": "$3790.00"
+                },
+                {
+                    "model": "2-5154/10-E575",
+                    "our_price": "$3690.00"
+                },
+                {
+                    "model": "2-5154/10-A",
+                    "our_price": "$2420.00"
+                },
+                {
+                    "model": "2-5154/20-1",
+                    "our_price": "$2389.00"
+                },
+                {
+                    "model": "2-5154/20-1-50",
+                    "our_price": "$2409.00"
+                },
+                {
+                    "model": "2-5154/20-3",
+                    "our_price": "$2607.00"
+                },
+                {
+                    "model": "2-5154/20-3-50",
+                    "our_price": "$2670.00"
+                },
+                {
+                    "model": "2-5154/20-575",
+                    "our_price": "$2647.00"
+                },
+                {
+                    "model": "2-5154/20-E1",
+                    "our_price": "$2999.00"
+                },
+                {
+                    "model": "2-5154/20-E1-50",
+                    "our_price": "$3667.00"
+                },
+                {
+                    "model": "2-5154/20-E3",
+                    "our_price": "$3080.00"
+                },
+                {
+                    "model": "2-5154/20-E3-50",
+                    "our_price": "$3660.00"
+                },
+                {
+                    "model": "2-5154/20-E575",
+                    "our_price": "$3537.00"
+                },
+                {
+                    "model": "2-5154/20-A",
+                    "our_price": "$2783.00"
+                },
+                {
+                    "model": "2-5154/30-1",
+                    "our_price": "$2690.00"
+                },
+                {
+                    "model": "2-5154/30-1-50",
+                    "our_price": "$2712.00"
+                },
+                {
+                    "model": "2-5154/30-3",
+                    "our_price": "$2605.00"
+                },
+                {
+                    "model": "2-5154/30-3-50",
+                    "our_price": "$2671.00"
+                },
+                {
+                    "model": "2-5154/30-575",
+                    "our_price": "$2647.00"
+                },
+                {
+                    "model": "2-5154/30-E1",
+                    "our_price": "$2997.00"
+                },
+                {
+                    "model": "2-5154/30-E1-50",
+                    "our_price": "$3690.00"
+                },
+                {
+                    "model": "2-5154/30-E3",
+                    "our_price": "$3029.00"
+                },
+                {
+                    "model": "2-5154/30-E3-50",
+                    "our_price": "$3689.00"
+                },
+                {
+                    "model": "2-5154/30-E575",
+                    "our_price": "$3537.00"
+                },
+                {
+                    "model": "2-5154/30-A",
+                    "our_price": "$2882.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Vertical-Lift-Drum-Pourers/",
+            "results": [
+                {
+                    "model": "510-MORSE",
+                    "our_price": "$4490.00"
+                },
+                {
+                    "model": "510-110",
+                    "our_price": "$6529.00"
+                },
+                {
+                    "model": "510-113",
+                    "our_price": "$6895.00"
+                },
+                {
+                    "model": "510-114",
+                    "our_price": "$6669.00"
+                },
+                {
+                    "model": "510-115",
+                    "our_price": "$6650.00"
+                },
+                {
+                    "model": "510-117",
+                    "our_price": "$6999.00"
+                },
+                {
+                    "model": "510-120",
+                    "our_price": "$5479.00"
+                },
+                {
+                    "model": "510-124",
+                    "our_price": "$5469.00"
+                },
+                {
+                    "model": "510-125",
+                    "our_price": "$5499.00"
+                },
+                {
+                    "model": "510-127",
+                    "our_price": "$5779.00"
+                },
+                {
+                    "model": "510M",
+                    "our_price": "$6850.00"
+                },
+                {
+                    "model": "510M-114",
+                    "our_price": "$8795.00"
+                },
+                {
+                    "model": "510M-124",
+                    "our_price": "$7850.00"
+                },
+                {
+                    "model": "510SS",
+                    "our_price": "$19627.00"
+                },
+                {
+                    "model": "510SS-110",
+                    "our_price": "$20990.00"
+                },
+                {
+                    "model": "510SS-114",
+                    "our_price": "$21169.00"
+                },
+                {
+                    "model": "510SS-115",
+                    "our_price": "$20979.00"
+                },
+                {
+                    "model": "510SS-120",
+                    "our_price": "$20049.00"
+                },
+                {
+                    "model": "510SS-124",
+                    "our_price": "$20229.00"
+                },
+                {
+                    "model": "510SS-125",
+                    "our_price": "$20049.00"
+                },
+                {
+                    "model": "510S-XR",
+                    "our_price": "$5329.00"
+                },
+                {
+                    "model": "510S-XR-110",
+                    "our_price": "$7750.00"
+                },
+                {
+                    "model": "510S-XR-114",
+                    "our_price": "$7775.00"
+                },
+                {
+                    "model": "510S-XR-115",
+                    "our_price": "$7790.00"
+                },
+                {
+                    "model": "510S-XR-120",
+                    "our_price": "$6419.00"
+                },
+                {
+                    "model": "510S-XR-124",
+                    "our_price": "$6489.00"
+                },
+                {
+                    "model": "510S-XR-125",
+                    "our_price": "$6379.00"
+                },
+                {
+                    "model": "512",
+                    "our_price": "$4429.00"
+                },
+                {
+                    "model": "512-120",
+                    "our_price": "$5379.00"
+                },
+                {
+                    "model": "512-124",
+                    "our_price": "$5419.00"
+                },
+                {
+                    "model": "512-125",
+                    "our_price": "$5399.00"
+                },
+                {
+                    "model": "515M-T",
+                    "our_price": "$15900.00"
+                },
+                {
+                    "model": "515SS-N",
+                    "our_price": "$25428.00"
+                },
+                {
+                    "model": "515SS-N-110",
+                    "our_price": "$27148.00"
+                },
+                {
+                    "model": "515SS-N-114",
+                    "our_price": "$27328.00"
+                },
+                {
+                    "model": "515SS-N-115",
+                    "our_price": "$27148.00"
+                },
+                {
+                    "model": "515SS-N-120",
+                    "our_price": "$26218.00"
+                },
+                {
+                    "model": "515SS-N-124",
+                    "our_price": "$26379.00"
+                },
+                {
+                    "model": "515SS-N-125",
+                    "our_price": "$26215.00"
+                },
+                {
+                    "model": "515SS-T",
+                    "our_price": "$27128.00"
+                },
+                {
+                    "model": "515SS-T-114",
+                    "our_price": "$28989.00"
+                },
+                {
+                    "model": "515SS-T-124",
+                    "our_price": "$28969.00"
+                },
+                {
+                    "model": "520-MORSE",
+                    "our_price": "$4995.00"
+                },
+                {
+                    "model": "520-110",
+                    "our_price": "$7659.00"
+                },
+                {
+                    "model": "520-114",
+                    "our_price": "$7690.00"
+                },
+                {
+                    "model": "520-115",
+                    "our_price": "$7675.00"
+                },
+                {
+                    "model": "520-117",
+                    "our_price": "$7995.00"
+                },
+                {
+                    "model": "520-120",
+                    "our_price": "$6398.00"
+                },
+                {
+                    "model": "520-124",
+                    "our_price": "$6467.00"
+                },
+                {
+                    "model": "520-125",
+                    "our_price": "$6318.00"
+                },
+                {
+                    "model": "520-127",
+                    "our_price": "$6595.00"
+                },
+                {
+                    "model": "520M",
+                    "our_price": "$7995.00"
+                },
+                {
+                    "model": "520M-114",
+                    "our_price": "$9950.00"
+                },
+                {
+                    "model": "520M-124",
+                    "our_price": "$8938.00"
+                },
+                {
+                    "model": "520SS",
+                    "our_price": "$23048.00"
+                },
+                {
+                    "model": "520SS-110",
+                    "our_price": "$24950.00"
+                },
+                {
+                    "model": "520SS-114",
+                    "our_price": "$24950.00"
+                },
+                {
+                    "model": "520SS-115",
+                    "our_price": "$24950.00"
+                },
+                {
+                    "model": "520SS-120",
+                    "our_price": "$23467.00"
+                },
+                {
+                    "model": "520SS-124",
+                    "our_price": "$23999.00"
+                },
+                {
+                    "model": "520SS-125",
+                    "our_price": "$23900.00"
+                },
+                {
+                    "model": "525-N-117",
+                    "our_price": "$15498.00"
+                },
+                {
+                    "model": "522",
+                    "our_price": "$5395.00"
+                },
+                {
+                    "model": "522-120",
+                    "our_price": "$6229.00"
+                },
+                {
+                    "model": "522-124",
+                    "our_price": "$6225.00"
+                },
+                {
+                    "model": "522-125",
+                    "our_price": "$5998.00"
+                },
+                {
+                    "model": "525M-T",
+                    "our_price": "$16910.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Tilt-To-Load-Drum-Tumbler-with-Automated-Control-Package/",
+            "results": [
+                {
+                    "model": "311-1-115",
+                    "our_price": "$16,490.00"
+                },
+                {
+                    "model": "311-1-230",
+                    "our_price": "$15,950.00"
+                },
+                {
+                    "model": "311-3-230",
+                    "our_price": "$15,950.00"
+                },
+                {
+                    "model": "311-3-460",
+                    "our_price": "$15,950.00"
+                },
+                {
+                    "model": "311-3-575",
+                    "our_price": "$16,490.00"
+                },
+                {
+                    "model": "311-1-220-50",
+                    "our_price": "$16,490.00"
+                },
+                {
+                    "model": "311-3-230-50",
+                    "our_price": "$16,490.00"
+                },
+                {
+                    "model": "311-3-440-50",
+                    "our_price": "$16,490.00"
+                },
+                {
+                    "model": "311-3-400-50",
+                    "our_price": "$16,490.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Heavy-Duty-Hydra-Lift-Karriers/",
+            "results": [
+                {
+                    "model": "410-110",
+                    "our_price": "$3960.00"
+                },
+                {
+                    "model": "410-114",
+                    "our_price": "$4045.00"
+                },
+                {
+                    "model": "410-115",
+                    "our_price": "$4019.00"
+                },
+                {
+                    "model": "410-120",
+                    "our_price": "$3499.00"
+                },
+                {
+                    "model": "410-124",
+                    "our_price": "$4075.00"
+                },
+                {
+                    "model": "410-125",
+                    "our_price": "$3499.00"
+                },
+                {
+                    "model": "410",
+                    "our_price": "$2745.00"
+                },
+                {
+                    "model": "410M-114",
+                    "our_price": "$5480.00"
+                },
+                {
+                    "model": "410M-124",
+                    "our_price": "$5250.00"
+                },
+                {
+                    "model": "410M",
+                    "our_price": "$4230.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Stainless-Steel-Vertical-Lift-Drum-Pourer/",
+            "results": [
+                {
+                    "model": "SSVLDP",
+                    "our_price": "Call"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-Stainless-Steel-Below-Hook-Drum-Carrier/",
+            "results": [
+                {
+                    "model": "KF-185S2-HD",
+                    "our_price": "$6479.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Custom-5-Gallon-Pail-Karrier/",
+            "results": [
+                {
+                    "model": "185S-5",
+                    "our_price": "$998.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Clamp-and-Go-Dolly-Handle/",
+            "results": [
+                {
+                    "model": "24",
+                    "our_price": "$141.80"
+                },
+                {
+                    "model": "24-SS",
+                    "our_price": "$569.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/MORStak-Forklift-Mounted-Drum-Rackers/",
+            "results": [
+                {
+                    "model": "289F",
+                    "our_price": "$5189.00"
+                },
+                {
+                    "model": "289C",
+                    "our_price": "$5138.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Super-Duty-Kontrol-Karrier/",
+            "results": [
+                {
+                    "model": "185XGR",
+                    "our_price": "$2392.00"
+                },
+                {
+                    "model": "185XMGR",
+                    "our_price": "$4772.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Diameter-Adaptors/",
+            "results": [
+                {
+                    "model": "55/30-22",
+                    "our_price": "$86.50"
+                },
+                {
+                    "model": "55/30-20.5",
+                    "our_price": "$134.00"
+                },
+                {
+                    "model": "55/30-19",
+                    "our_price": "$135.00"
+                },
+                {
+                    "model": "55/30-17.5",
+                    "our_price": "$177.00"
+                },
+                {
+                    "model": "55/30-16",
+                    "our_price": "$180.00"
+                },
+                {
+                    "model": "55/30-14.5",
+                    "our_price": "$180.00"
+                },
+                {
+                    "model": "55/30-19GR",
+                    "our_price": "$229.00"
+                },
+                {
+                    "model": "55/30M-22",
+                    "our_price": "$429.00"
+                },
+                {
+                    "model": "55/30M-20.5",
+                    "our_price": "$619.00"
+                },
+                {
+                    "model": "55/30M-19",
+                    "our_price": "$559.00"
+                },
+                {
+                    "model": "55/30M-17.5",
+                    "our_price": "$650.00"
+                },
+                {
+                    "model": "55/30M-16",
+                    "our_price": "$595.00"
+                },
+                {
+                    "model": "55/30M-14.5",
+                    "our_price": "$580.00"
+                },
+                {
+                    "model": "55/30SS-22",
+                    "our_price": "$280.00"
+                },
+                {
+                    "model": "55/30SS-20.5",
+                    "our_price": "$320.00"
+                },
+                {
+                    "model": "55/30SS-19",
+                    "our_price": "$268.00"
+                },
+                {
+                    "model": "55/30SS-17.5",
+                    "our_price": "$390.00"
+                },
+                {
+                    "model": "55/30SS-16",
+                    "our_price": "$390.00"
+                },
+                {
+                    "model": "55/30SS-14.5",
+                    "our_price": "$390.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Hydra-Lift-Drum-Rollers/",
+            "results": [
+                {
+                    "model": "456-1-115",
+                    "our_price": "$4494.00"
+                },
+                {
+                    "model": "456-1-230",
+                    "our_price": "$4494.00"
+                },
+                {
+                    "model": "456-3-230",
+                    "our_price": "$4239.00"
+                },
+                {
+                    "model": "456-3-460",
+                    "our_price": "$4239.00"
+                },
+                {
+                    "model": "456-3-575",
+                    "our_price": "$4749.00"
+                },
+                {
+                    "model": "456-A",
+                    "our_price": "$4469.00"
+                },
+                {
+                    "model": "456-E1-115",
+                    "our_price": "$5396.00"
+                },
+                {
+                    "model": "456-E1-230",
+                    "our_price": "$5397.00"
+                },
+                {
+                    "model": "456-E3-230",
+                    "our_price": "$5396.00"
+                },
+                {
+                    "model": "456-E3-460",
+                    "our_price": "$5396.00"
+                },
+                {
+                    "model": "456-E3-575",
+                    "our_price": "$5689.00"
+                },
+                {
+                    "model": "456-1-220-50",
+                    "our_price": "$4785.00"
+                },
+                {
+                    "model": "456-3-220-50",
+                    "our_price": "$4785.00"
+                },
+                {
+                    "model": "456-3-380-50",
+                    "our_price": "$4789.00"
+                },
+                {
+                    "model": "456-3-440-50",
+                    "our_price": "$4789.00"
+                },
+                {
+                    "model": "456-E1-220-50",
+                    "our_price": "$5589.00"
+                },
+                {
+                    "model": "456-E3-440-50",
+                    "our_price": "$5878.00"
+                },
+                {
+                    "model": "456-E3-220-50",
+                    "our_price": "$5878.00"
+                },
+                {
+                    "model": "456-E3-380-50",
+                    "our_price": "$5878.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Drum-Cones/",
+            "results": [
+                {
+                    "model": "5-VF-90-15.5",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-17",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-18.5",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-19",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-20",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-21.5",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-VF-90-23",
+                    "our_price": "$1189.00"
+                },
+                {
+                    "model": "5-90-15.5",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-17",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-18.5",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-19",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-20",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-21.5",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5-90-23",
+                    "our_price": "$1129.00"
+                },
+                {
+                    "model": "5SS-VF-90-15.5",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-17",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-18.5",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-19",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-20",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-21.5",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-VF-90-23",
+                    "our_price": "$1720.00"
+                },
+                {
+                    "model": "5SS-90-15.5",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-17",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-18.5",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-19",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-20",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-21.5",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5SS-90-23",
+                    "our_price": "$1699.00"
+                },
+                {
+                    "model": "5-VF-45-15.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-17",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-18.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-19",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-20",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-21.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-45-23",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-15.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-17",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-18.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-19",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-20",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-21.5",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-VF-60-23",
+                    "our_price": "$380.00"
+                },
+                {
+                    "model": "5-45-15.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-17",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-18.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-19",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-20",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-21.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-45-23",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-15.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-17",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-18.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-19",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-20",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-21.5",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5-60-23",
+                    "our_price": "$359.00"
+                },
+                {
+                    "model": "5SS-VF-45-15.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-17",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-18.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-19",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-20",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-21.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-45-23",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-15.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-17",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-18.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-19",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-20",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-21.5",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-VF-60-23",
+                    "our_price": "$839.00"
+                },
+                {
+                    "model": "5SS-45-15.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-17",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-18.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-19",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-20",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-21.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-45-23",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-15.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-17",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-18.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-19",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-20",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-21.5",
+                    "our_price": "$809.00"
+                },
+                {
+                    "model": "5SS-60-23",
+                    "our_price": "$809.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Portable-Drum-Rollers/",
+            "results": [
+                {
+                    "model": "201/10-1",
+                    "our_price": "$1510.00"
+                },
+                {
+                    "model": "201/10-1-50",
+                    "our_price": "$1774.00"
+                },
+                {
+                    "model": "201/10-3",
+                    "our_price": "$1529.00"
+                },
+                {
+                    "model": "201/10-3-50",
+                    "our_price": "$1695.00"
+                },
+                {
+                    "model": "201/10-575",
+                    "our_price": "$1625.00"
+                },
+                {
+                    "model": "201/10-E1",
+                    "our_price": "$1760.00"
+                },
+                {
+                    "model": "201/10-E1-50",
+                    "our_price": "$2120.00"
+                },
+                {
+                    "model": "201/10-E3",
+                    "our_price": "$1749.00"
+                },
+                {
+                    "model": "201/10-E3-50",
+                    "our_price": "$2249.00"
+                },
+                {
+                    "model": "201/10-E575",
+                    "our_price": "$2139.00"
+                },
+                {
+                    "model": "201/10-A",
+                    "our_price": "$1539.00"
+                },
+                {
+                    "model": "201/20-1",
+                    "our_price": "$1409.00"
+                },
+                {
+                    "model": "201/20-1-50",
+                    "our_price": "$1702.00"
+                },
+                {
+                    "model": "201/20-3",
+                    "our_price": "$1399.00"
+                },
+                {
+                    "model": "201/20-3-50",
+                    "our_price": "$1695.00"
+                },
+                {
+                    "model": "201/20-575",
+                    "our_price": "$1620.00"
+                },
+                {
+                    "model": "201/20-E1",
+                    "our_price": "$1599.00"
+                },
+                {
+                    "model": "201/20-E1-50",
+                    "our_price": "$2118.00"
+                },
+                {
+                    "model": "201/20-E3",
+                    "our_price": "$1589.00"
+                },
+                {
+                    "model": "201/20-E3-50",
+                    "our_price": "$2249.00"
+                },
+                {
+                    "model": "201/20-E575",
+                    "our_price": "$2145.00"
+                },
+                {
+                    "model": "201/20-A",
+                    "our_price": "$1410.00"
+                },
+                {
+                    "model": "201/30-1",
+                    "our_price": "$1490.00"
+                },
+                {
+                    "model": "201/30-1-50",
+                    "our_price": "$1702.00"
+                },
+                {
+                    "model": "201/30-3",
+                    "our_price": "$1480.00"
+                },
+                {
+                    "model": "201/30-3-50",
+                    "our_price": "$1685.00"
+                },
+                {
+                    "model": "201/30-575",
+                    "our_price": "$1610.00"
+                },
+                {
+                    "model": "201/30-E1",
+                    "our_price": "$1750.00"
+                },
+                {
+                    "model": "201/30-E1-50",
+                    "our_price": "$2110.00"
+                },
+                {
+                    "model": "201/30-E3",
+                    "our_price": "$1742.00"
+                },
+                {
+                    "model": "201/30-E3-50",
+                    "our_price": "$2248.00"
+                },
+                {
+                    "model": "201/30-E575",
+                    "our_price": "$2145.00"
+                },
+                {
+                    "model": "201/30-A",
+                    "our_price": "$1540.00"
+                },
+                {
+                    "model": "201VS-1",
+                    "our_price": "$1729.00"
+                },
+                {
+                    "model": "201VS-1-50",
+                    "our_price": "$2040.00"
+                },
+                {
+                    "model": "201VS-3",
+                    "our_price": "$1715.00"
+                },
+                {
+                    "model": "201VS-3-50",
+                    "our_price": "$2095.00"
+                },
+                {
+                    "model": "201VS-575",
+                    "our_price": "$2125.00"
+                },
+                {
+                    "model": "201VS-E1",
+                    "our_price": "$1905.00"
+                },
+                {
+                    "model": "201VS-E1-50",
+                    "our_price": "$2560.00"
+                },
+                {
+                    "model": "201VS-E3",
+                    "our_price": "$2150.00"
+                },
+                {
+                    "model": "201VS-E3-50",
+                    "our_price": "$2725.00"
+                },
+                {
+                    "model": "201VS-E575",
+                    "our_price": "$2685.00"
+                },
+                {
+                    "model": "201VS-A",
+                    "our_price": "$1719.00"
+                },
+                {
+                    "model": "201B/10-1",
+                    "our_price": "$2295.00"
+                },
+                {
+                    "model": "201B/10-1-50",
+                    "our_price": "$2460.00"
+                },
+                {
+                    "model": "201B/10-3",
+                    "our_price": "$2265.00"
+                },
+                {
+                    "model": "201B/10-3-50",
+                    "our_price": "$2505.00"
+                },
+                {
+                    "model": "201B/10-575",
+                    "our_price": "$2320.00"
+                },
+                {
+                    "model": "201B/10-E1",
+                    "our_price": "$2600.00"
+                },
+                {
+                    "model": "201B/10-E1-50",
+                    "our_price": "$2930.00"
+                },
+                {
+                    "model": "201B/10-E3",
+                    "our_price": "$2589.00"
+                },
+                {
+                    "model": "201B/10-E3-50",
+                    "our_price": "$3130.00"
+                },
+                {
+                    "model": "201B/10-E575",
+                    "our_price": "$3005.00"
+                },
+                {
+                    "model": "201B/10-A",
+                    "our_price": "$2295.00"
+                },
+                {
+                    "model": "201B/20-1",
+                    "our_price": "$2029.00"
+                },
+                {
+                    "model": "201B/20-1-50",
+                    "our_price": "$2440.00"
+                },
+                {
+                    "model": "201B/20-3",
+                    "our_price": "$2025.00"
+                },
+                {
+                    "model": "201B/20-3-50",
+                    "our_price": "$2505.00"
+                },
+                {
+                    "model": "201B/20-575",
+                    "our_price": "$2320.00"
+                },
+                {
+                    "model": "201B/20-E1",
+                    "our_price": "$2580.00"
+                },
+                {
+                    "model": "201B/20-E1-50",
+                    "our_price": "$2930.00"
+                },
+                {
+                    "model": "201B/20-E3",
+                    "our_price": "$2595.00"
+                },
+                {
+                    "model": "201B/20-E3-50",
+                    "our_price": "$3130.00"
+                },
+                {
+                    "model": "201B/20-E575",
+                    "our_price": "$3005.00"
+                },
+                {
+                    "model": "201B/20-A",
+                    "our_price": "$2029.00"
+                },
+                {
+                    "model": "201B/30-1",
+                    "our_price": "$2295.00"
+                },
+                {
+                    "model": "201B/30-1-50",
+                    "our_price": "$2460.00"
+                },
+                {
+                    "model": "201B/30-3",
+                    "our_price": "$2279.00"
+                },
+                {
+                    "model": "201B/30-3-50",
+                    "our_price": "$2505.00"
+                },
+                {
+                    "model": "201B/30-575",
+                    "our_price": "$2320.00"
+                },
+                {
+                    "model": "201B/30-E1",
+                    "our_price": "$2595.00"
+                },
+                {
+                    "model": "201B/30-E1-50",
+                    "our_price": "$2930.00"
+                },
+                {
+                    "model": "201B/30-E3",
+                    "our_price": "$2585.00"
+                },
+                {
+                    "model": "201B/30-E3-50",
+                    "our_price": "$3130.00"
+                },
+                {
+                    "model": "201B/30-E575",
+                    "our_price": "$2999.00"
+                },
+                {
+                    "model": "201B/30-A",
+                    "our_price": "$2295.00"
+                },
+                {
+                    "model": "201BVS-1",
+                    "our_price": "$2890.00"
+                },
+                {
+                    "model": "201BVS-1-50",
+                    "our_price": "$3240.00"
+                },
+                {
+                    "model": "201BVS-3",
+                    "our_price": "$2870.00"
+                },
+                {
+                    "model": "201BVS-3-50",
+                    "our_price": "$3220.00"
+                },
+                {
+                    "model": "201BVS-575",
+                    "our_price": "$3140.00"
+                },
+                {
+                    "model": "201BVS-E1",
+                    "our_price": "$3275.00"
+                },
+                {
+                    "model": "201BVS-E1-50",
+                    "our_price": "$3720.00"
+                },
+                {
+                    "model": "201BVS-E3",
+                    "our_price": "$3270.00"
+                },
+                {
+                    "model": "201BVS-E3-50",
+                    "our_price": "$3895.00"
+                },
+                {
+                    "model": "201BVS-E575",
+                    "our_price": "$3850.00"
+                },
+                {
+                    "model": "201BVS-A",
+                    "our_price": "$2945.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/Tilt-To-Load-Drum-Tumbler/",
+            "results": [
+                {
+                    "model": "310-1-115",
+                    "our_price": "$9339.00"
+                },
+                {
+                    "model": "310-1-230",
+                    "our_price": "$9339.00"
+                },
+                {
+                    "model": "310-3-230",
+                    "our_price": "$8789.00"
+                },
+                {
+                    "model": "310-3-460",
+                    "our_price": "$8789.00"
+                },
+                {
+                    "model": "310-3-575",
+                    "our_price": "10230.00"
+                },
+                {
+                    "model": "310-A",
+                    "our_price": "$8836.00"
+                },
+                {
+                    "model": "310-E1-115",
+                    "our_price": "$9749.00"
+                },
+                {
+                    "model": "310-E1-230",
+                    "our_price": "$9749.00"
+                },
+                {
+                    "model": "310-E3-230",
+                    "our_price": "$9755.00"
+                },
+                {
+                    "model": "310-E3-460",
+                    "our_price": "$9755.00"
+                },
+                {
+                    "model": "310-1-220-50",
+                    "our_price": "$10245.00"
+                },
+                {
+                    "model": "310-3-220-50",
+                    "our_price": "$10245.00"
+                },
+                {
+                    "model": "310-3-380-50",
+                    "our_price": "$10228.00"
+                },
+                {
+                    "model": "310-3-440-50",
+                    "our_price": "$10228.00"
+                },
+                {
+                    "model": "310-E1-220-50",
+                    "our_price": "$12033.00"
+                },
+                {
+                    "model": "310-E3-220-50",
+                    "our_price": "$12029.00"
+                },
+                {
+                    "model": "310-E3-380-50",
+                    "our_price": "$12029.00"
+                },
+                {
+                    "model": "310-E3-440-50",
+                    "our_price": "$12029.00"
+                },
+                {
+                    "model": "309-3",
+                    "our_price": "$4,919.00"
+                },
+                {
+                    "model": "309-A",
+                    "our_price": "$5,765.00"
+                },
+                {
+                    "model": "309-E1",
+                    "our_price": "$5,765.00"
+                },
+                {
+                    "model": "309-E1-50",
+                    "our_price": "$6,094.00"
+                },
+                {
+                    "model": "309-E3",
+                    "our_price": "$5,765.00"
+                },
+                {
+                    "model": "309-E3-50",
+                    "our_price": "$6,094.00"
+                },
+                {
+                    "model": "309-E3-575",
+                    "our_price": "$5,765.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PailPRO-Below-Hook-Can-Tipper/",
+            "results": [
+                {
+                    "model": "85-5",
+                    "our_price": "$359.00"
+                }
+            ]
+        },
+        {
+            "pageUrl": "https://materialflow.com/p/PailPRO-5-Gallon-Pail-Handler/",
+            "results": [
+                {
+                    "model": "83",
+                    "our_price": "$1448.00"
+                },
+                {
+                    "model": "3930-P",
+                    "our_price": "$279.00"
+                }
+            ]
+        }
+    ]
+}
